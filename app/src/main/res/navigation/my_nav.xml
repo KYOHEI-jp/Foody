@@ -11,10 +11,10 @@
         android:label="fragment_recipes"
         tools:layout="@layout/fragment_recipes" />
     <fragment
-        android:id="@+id/faboriteRecipesFragment"
+        android:id="@+id/favoriteRecipesFragment"
         android:name="com.example.foody.FavoriteRecipesFragment"
-        android:label="fragment_faborite_recipes"
-        tools:layout="@layout/fragment_faborite_recipes" />
+        android:label="fragment_favorite_recipes"
+        tools:layout="@layout/fragment_favorite_recipes" />
     <fragment
         android:id="@+id/foodJokeFragment"
         android:name="com.example.foody.FoodJokeFragment"
