@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fragment_recipes_sad_width">100dp</dimen>
+    <dimen name="fragment_recipes_sad_height">100dp</dimen>
+    <dimen name="error_text_size">18sp</dimen>
+    <dimen name="margin_error_text_to_error_imageview">8dp</dimen>
+</resources>
