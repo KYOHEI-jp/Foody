@@ -5,4 +5,7 @@
     <string name="recipes_fragment">Recipes</string>
     <string name="favorite_recipes_fragment">Favorite</string>
     <string name="food_joke">Food</string>
+    <string name="leaf_textView_text">100</string>
+    <string name="clock_textView_text">100</string>
+    <string name="heart_textView_text">100</string>
 </resources>
