@@ -4,4 +4,8 @@
     <dimen name="fragment_recipes_sad_height">100dp</dimen>
     <dimen name="error_text_size">18sp</dimen>
     <dimen name="margin_error_text_to_error_imageview">8dp</dimen>
+    <dimen name="cardView_corner_radius">10dp</dimen>
+    <dimen name="cardView_height">250dp</dimen>
+    <dimen name="cardView_width">0dp</dimen>
+    <dimen name="cardView_stroke_width">1dp</dimen>
 </resources>
